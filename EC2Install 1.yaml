@@ -5,7 +5,7 @@ Resources:
    AvailabilityZone: ap-south-1a
    ImageId: ami-001843b876406202a
    InstanceType: t2.micro
-   KeyName: sample
+   KeyName: dbserver
    Tags:
     - Key: Name
       Value: Webserver
